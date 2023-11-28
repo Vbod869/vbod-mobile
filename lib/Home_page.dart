@@ -226,6 +226,22 @@ class _HomeState extends State<Home> {
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
                               Container(child: Text("Rp 50.000,00")),
+                              Container(
+                                  width: 20,
+                                  height: 20,
+                                  margin: EdgeInsets.only(left: 10),
+                                  decoration: BoxDecoration(
+                                    borderRadius: BorderRadius.circular(20),
+                                    color: Colors.green,
+                                  ),
+                                  child: Center(
+                                    child: Icon(
+                                      Icons.add,
+                                      size: 15,
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                ),
                             ],
                           ),
                         ],
@@ -277,6 +293,22 @@ class _HomeState extends State<Home> {
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
                               Container(child: Text("Rp 50.000,00")),
+                              Container(
+                                  width: 20,
+                                  height: 20,
+                                  margin: EdgeInsets.only(left: 10),
+                                  decoration: BoxDecoration(
+                                    borderRadius: BorderRadius.circular(20),
+                                    color: Colors.green,
+                                  ),
+                                  child: Center(
+                                    child: Icon(
+                                      Icons.add,
+                                      size: 15,
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                ),
                             ],
                           ),
                         ],
@@ -335,6 +367,22 @@ class _HomeState extends State<Home> {
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
                               Container(child: Text("Rp 50.000,00")),
+                              Container(
+                                  width: 20,
+                                  height: 20,
+                                  margin: EdgeInsets.only(left: 10),
+                                  decoration: BoxDecoration(
+                                    borderRadius: BorderRadius.circular(20),
+                                    color: Colors.green,
+                                  ),
+                                  child: Center(
+                                    child: Icon(
+                                      Icons.add,
+                                      size: 15,
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                ),
                             ],
                           ),
                         ],
@@ -386,6 +434,22 @@ class _HomeState extends State<Home> {
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
                               Container(child: Text("Rp 15.000,00")),
+                              Container(
+                                  width: 20,
+                                  height: 20,
+                                  margin: EdgeInsets.only(left: 10),
+                                  decoration: BoxDecoration(
+                                    borderRadius: BorderRadius.circular(20),
+                                    color: Colors.green,
+                                  ),
+                                  child: Center(
+                                    child: Icon(
+                                      Icons.add,
+                                      size: 15,
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                ),
                             ],
                           ),
                         ],
@@ -443,6 +507,22 @@ class _HomeState extends State<Home> {
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
                               Container(child: Text("Rp 50.000,00")),
+                              Container(
+                                  width: 20,
+                                  height: 20,
+                                  margin: EdgeInsets.only(left: 10),
+                                  decoration: BoxDecoration(
+                                    borderRadius: BorderRadius.circular(20),
+                                    color: Colors.green,
+                                  ),
+                                  child: Center(
+                                    child: Icon(
+                                      Icons.add,
+                                      size: 15,
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                ),
                             ],
                           ),
                         ],
@@ -494,6 +574,22 @@ class _HomeState extends State<Home> {
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
                               Container(child: Text("Rp 15.000,00")),
+                              Container(
+                                  width: 20,
+                                  height: 20,
+                                  margin: EdgeInsets.only(left: 10),
+                                  decoration: BoxDecoration(
+                                    borderRadius: BorderRadius.circular(20),
+                                    color: Colors.green,
+                                  ),
+                                  child: Center(
+                                    child: Icon(
+                                      Icons.add,
+                                      size: 15,
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                ),
                             ],
                           ),
                         ],
