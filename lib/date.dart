@@ -179,14 +179,14 @@ class _DateState extends State<Date> {
                       ],
                     ),
                     Container(
-                      margin: EdgeInsets.only(right: 60),
+                      margin: EdgeInsets.only(right: 10),
                       child: Text("Strawberry Sunday",
-                      style: TextStyle(fontSize: 15)),
+                      style: TextStyle(fontSize: 14.7)),
                     ),
                     Container(
-                      margin: EdgeInsets.only(left: 10),
+                      margin: EdgeInsets.only(left: 0.5),
                       child: Text("Rp. 15.000,00",
-                       style: TextStyle(fontSize: 15)),
+                       style: TextStyle(fontSize: 14.7)),
                     ),
                     IconButton(onPressed: () {}, icon: Icon(Icons.restore_from_trash_outlined,
                     size: 40,color: Colors.red,))
